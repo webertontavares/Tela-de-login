@@ -8,3 +8,13 @@ lilás: #5f2c82
 
 */
 
+body{
+    width: 90vw;
+    background-image: url(../imagens/tela-login.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+main > section{
+    font-family: 'Courier New', Courier, monospace;
+}
